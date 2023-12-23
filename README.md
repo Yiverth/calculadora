@@ -1,4 +1,3 @@
-|[](https://github.com/Yiverth/calculadora/blob/master/de4770f0-9859-4b69-8596-9dba08c06dc2.jpg)
 
 El proyecto de la calculadora en Android Studio es una aplicación móvil que permite a los usuarios realizar operaciones matemáticas básicas, como suma, resta, multiplicación y división, directamente desde sus dispositivos Android. La aplicación proporciona una interfaz intuitiva y fácil de usar, permitiendo a los usuarios ingresar números y realizar cálculos de manera rápida y eficiente.
 
